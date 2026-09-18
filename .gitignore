@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# AI generated files
+ai-engine/results/
+ai-engine/runs/
+ai-engine/uploads/
+
+# Videos and images
+*.mp4
+*.avi
+*.webm
+*.jpg
+*.jpeg
+*.png
+
+# YOLO model weights
+*.pt
+
+# Python cache
+.pytest_cache/
